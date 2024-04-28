@@ -1,0 +1,7 @@
+123456 100.00 DEP Deposit for savings
+234567 200.00 WDL Withdrawal from checking
+345678 150.00 DEP Deposit for checking
+456789 300.00 WDL Withdrawal from savings
+567890 -50.00 WDL Overdraft test
+678901 99999999.99 DEP Large deposit test
+789012 100.00 XYZ Invalid code test
